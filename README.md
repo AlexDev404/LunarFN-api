@@ -32,7 +32,11 @@ Welcome to LunarFN Api!
 # LUNARFN
 
 [WEBSITE](https://www.lunarfn.com)
-\n
+
+
+
 [DISCORD](https://discord.gg/lunarfn)
-\n
+
+
+
 [OWNER/VEXI](https://www.vexidev.tk)
