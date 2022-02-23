@@ -26,3 +26,11 @@ Welcome to LunarFN Api!
 </table>
 </details>
 <br>
+
+
+
+# LUNARFN
+
+[WEBSITE](https://www.lunarfn.com)
+[DISCORD](https://discord.gg/lunarfn)
+[OWNER/VEXI](https://www.vexidev.tk)
