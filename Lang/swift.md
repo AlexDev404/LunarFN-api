@@ -8,7 +8,7 @@
 import Foundation
 
 let headers = [
-	"x-rapidapi-host": "headers?... Never of her!"
+	"headers": "headers?... Never of her!"
 ]
 
 let request = NSMutableURLRequest(url: NSURL(string: "https://api.lunarfn.tk")! as URL,
